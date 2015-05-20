@@ -1,9 +1,6 @@
----
-title: 'Getting and Cleaning Data: Course Project'
-author: "Heath Kirkwood"
-date: "May 20, 2015"
-output: html_document
----
+
+#Getting and Cleaning Data: Course Project
+
 
 ###You should create one R script called run_analysis.R that does the following:
 
